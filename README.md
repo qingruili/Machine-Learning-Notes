@@ -34,7 +34,8 @@ Below are the primary topics addressed in the course and included in this reposi
 
 These notes draw on a variety of resources, including (but not limited to):
 
-- **Course Materials**: Lectures and slides from CMPT 726 at SFU (Fall 2024).  
+- **Course Materials**: Lectures and slides from CMPT 726 at SFU (Fall 2024).
+- **Online Resources**: 
 
 > **Disclaimer**: These notes are my personal understanding of the course material and may contain inaccuracies or omissions. They are *not* official lecture notes.
 
